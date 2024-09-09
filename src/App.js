@@ -1,9 +1,9 @@
-
+import ExpenseItem from "./components/Expenseltem";
 
 function App() {
   return (
     <div>
-      <h2>Hello world!</h2>
+      <ExpenseItem></ExpenseItem>
       <p>Oma Nimi / VAMK / BIT</p>
     </div>
   );
