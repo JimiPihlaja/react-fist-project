@@ -41,7 +41,7 @@ const App = () => {
     <div>
       <NewExpense onAddExpense={addExpenseHandler} />
      <Expenses items={expenses}/>
-      <p>Oma Nimi / VAMK / BIT</p>
+      <p>Jimi Pihlajakangas / VAMK / BIT</p>
     </div>
   );
 }
